@@ -1,0 +1,3 @@
+Carnet de bord : 
+
+18/11: petite réunion sur les prochaines actions: processsing des données et recherche sur modèle ML 
