@@ -1,6 +1,6 @@
 # Projet-Python-pour-le-Data-Scientist : Formula@1
 
-Bienvenue sur le Github de notre projet Python Pour le Data Scientist de 
+Bienvenue sur le Github de notre projet Python Pour le Data Scientist de @milanhurtado, @IdrissKad et @Va2944.
 
 L'objectif de ce projet est de prédire la victoire sur le prochain Grand Prix de Formule 1.
 
