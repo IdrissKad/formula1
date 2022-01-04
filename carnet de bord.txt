@@ -1,3 +1,11 @@
 Carnet de bord : 
 
+<<<<<<< Updated upstream
 18/11: petite réunion sur les prochaines actions: processsing des données et recherche sur modèle ML 
+=======
+18/11: petite réunion sur les prochaines actions: processsing des données et recherche sur modèle ML 
+05/12: statistiques et graphiques sur le df "results" pour essayer de trouver les paramètres essentiels pour prédire 
+notre target (classement, gagnant)
+Vacances de Noël : points hebdomadaires de suivi
+2 Janvier 2022 : réunion de conclusion
+>>>>>>> Stashed changes
